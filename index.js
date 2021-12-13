@@ -63,8 +63,11 @@ inquirer.prompt(QUESTIONS).then((answers) => {
         "dependencies": {
             "chalk": "^5.0.0",
             "discord.js": "^13.3.1",
+            "fs": "^0.0.1-security",
             "dotenv": "^10.0.0",
-            "eslint": "^8.4.1"
+            "eslint": "^8.4.1",
+            "glob": "^7.2.0",
+            "quick.db": "^7.1.3"
         }
     }
     `;
