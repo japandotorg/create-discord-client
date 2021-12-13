@@ -25,12 +25,11 @@
         "url": "https://github.com/japandotorg/create-discord-client/issues"
     },
     "homepage": "https://github.com/japandotorg/create-discord-client",
-    "bin": {
-        "create-discord-client": "./index.js"
-    },
+    "bin": "./index.js",
     "dependencies": {
         "child_process": "^1.0.2",
         "fs": "^0.0.1-security",
         "inquirer": "^8.2.0"
-    }
+    },
+    "packageManager": "yarn@3.1.1"
 }

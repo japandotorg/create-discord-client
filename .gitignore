@@ -1,3 +1,6 @@
 node_modules
 package-lock.json
 test
+.yarnrc.yml
+yarn.lock
+.yarn
