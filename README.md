@@ -1,4 +1,4 @@
-# create-discord-client
+# [create-discord-client](https://www.npmjs.com/package/create-discord-client)
 
 ## What is create-discord-client?
 > create-discord-client is a CLI (Command Line Interface) tool that lets you generate a Discord.js project in a couple of seconds.
@@ -15,6 +15,11 @@ Do you use a Command/Event Handler? Are you tired of having to copy paste the sa
 ## Getting Started
 Install create-discord-client by running `npm install -g create-discord-client` or `yarn global add create-discord-client` on your terminal or windows command prompt. This will install create-discord-client globally.
 * To create a project, type `create-discord-client` in your terminal or command prompt.
+
+Or you can directly use npx to genereate the files for you
+```bash
+npx create-discord-client
+```
 
 ## Setup/Configuration
 Your `.env` file should look like this -
