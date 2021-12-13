@@ -100,9 +100,9 @@ inquirer.prompt(QUESTIONS).then((answers) => {
             - run \`npm start\`
     `;
 
-    console.log('%c', success, "color: green; font-size: 16px");
-    console.log('%c', info, "color: green; font-size: 12px");
-    console.log('%c', start, "color: green; font-size: 12px");
+    console.log(success);
+    console.log(info);
+    console.log(start);
 });
 
 /**
