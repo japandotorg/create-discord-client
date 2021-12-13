@@ -11,7 +11,9 @@
         "discord-bot",
         "discord",
         "node.js",
-        "discord-v13"
+        "discord.js-v13",
+        "discord-bot-template",
+        "advanced-discord-bot"
     ],
     "author": "inthedark.org#0666 <yash.kul69@gmail.com> [https://japandotorg.me]",
     "license": "ISC",
