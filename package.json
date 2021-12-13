@@ -14,5 +14,16 @@
         "discord-v13"
     ],
     "author": "inthedark.org#0666 <yash.kul69@gmail.com> [https://japandotorg.me]",
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/japandotorg/create-discord-client.git"
+    },
+    "bugs": {
+        "url": "https://github.com/japandotorg/create-discord-client/issues"
+    },
+    "homepage": "https://github.com/japandotorg/create-discord-client",
+    "bin": {
+        "create-discord-client": "./index.js"
+    }
 }
