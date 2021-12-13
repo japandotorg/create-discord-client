@@ -42,7 +42,7 @@ inquirer.prompt(QUESTIONS).then((answers) => {
     const author = answers["author"];
     const botToken = 'BotTokenHere';
     const botPrefix = answers["bot-prefix"];
-    const templatePath = `${__dirname}` // will add later
+    const templatePath = `${__dirname}/templates/${projectChoice}`
 
     const packageJson = `
     {
